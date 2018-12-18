@@ -1,11 +1,15 @@
 # Extract comments :  
 
+## Install required packages :
+
+                pip3 install -r requirements.txt
+
+## Run script :
+
                 python comments.py --videoid='<video_id>'
 
 
 # YOUTUBE DATA API configuration :
-
-
 
 The OAuth 2.0 information for this application, including its client_id and client_secret. You can acquire an OAuth 2.0 client ID and client secret from the Google Cloud Console at
                 [https://console.cloud.google.com/apis/dashboard](https://console.cloud.google.com/apis/dashboard).
